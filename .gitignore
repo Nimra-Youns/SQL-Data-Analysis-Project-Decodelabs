@@ -1,0 +1,92 @@
+# Git Ignore File for SQL Data Analysis Project
+
+# ====================
+# Operating System
+# ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ====================
+# IDE / Editor Files
+# ====================
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# ====================
+# Database Related
+# ====================
+*.mdf
+*.ldf
+*.bak
+*.backup
+*.sql.bak
+*.db
+*.sqlite
+*.sqlite3
+
+# ====================
+# Log Files
+# ====================
+*.log
+logs/
+*.log.*
+
+# ====================
+# Temporary Files
+# ====================
+temp/
+tmp/
+*.tmp
+*.temp
+.~*
+
+# ====================
+# Environment Files
+# ====================
+.env
+.env.local
+.env.*.local
+
+# ====================
+# OS Cache Files
+# ====================
+.cache/
+__pycache__/
+*.pyc
+
+# ====================
+# Build Artifacts
+# ====================
+bin/
+obj/
+dist/
+build/
+
+# ====================
+# Excel Temp Files
+# ====================
+~$*.xlsx
+.~lock.*
+
+# ====================
+# Backup Copies
+# ====================
+*.backup
+*.bkp
+*.old
