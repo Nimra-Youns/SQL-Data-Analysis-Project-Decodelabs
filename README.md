@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/thumbnail.png" alt="SQL Project Banner" width="100%">
+</p>
 # SQL Data Analysis Project
 
 ## 📊 Project Overview
